@@ -3,6 +3,9 @@
 This repository contains the source code for a Pharmacy Management System implemented in 8086 Assembly Language. The system allows users to add, update, view, and delete medicine records, leveraging file-handling techniques.
 
 
+                            ~~~~~See it in Action: Pharmacy Management System~~~~~
+file:///home/saraj/Desktop/github.mp4
+
 ## Features
 
 - **Add New Medicine Record**: Insert details of new medicines.
