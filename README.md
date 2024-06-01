@@ -4,7 +4,8 @@ This repository contains the source code for a Pharmacy Management System implem
 
 
                             ~~~~~See it in Action: Pharmacy Management System~~~~~
-file:///home/saraj/Desktop/github.mp4
+[action.WEBM](https://github.com/aswanisaraj/Pharmacy-Mgmt-ASM8086/assets/115165910/f7721399-bb80-4b63-8012-e38b12f4d5bc)
+
 
 ## Features
 
